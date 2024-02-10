@@ -1,5 +1,16 @@
 # Task
 
+to execute this project you have to install angular version 15 and nodejs version 16
+to install angular and nodejs version hit the below command 
+npm install -g json-server@0.17.1
+npm install -g @angular/cli@15.2.0
+
+to serve db.json file to json server hit the below command 
+json-server --watch db.json
+
+after serving the db.json file you can run the angular project 
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
 ## Development server
